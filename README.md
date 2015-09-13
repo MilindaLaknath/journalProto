@@ -1,0 +1,2 @@
+# journalProto
+JMS prototype project
